@@ -1,0 +1,7 @@
+<Project>
+<PropertyGroup>
+  <OutputPath>$(SolutionDir)bin\$(Platform)\$(Configuration)\</OutputPath>
+  <BaseIntermediateOutputPath>$(SolutionDir)obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+  <LangVersion>latest</LangVersion>
+</PropertyGroup>
+</Project>
